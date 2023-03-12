@@ -6,5 +6,5 @@ const alien = {
 }
 
 for(const info in alien){
-    console.log(info)
+    console.log(alien[info])
 }
